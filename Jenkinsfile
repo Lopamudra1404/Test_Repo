@@ -3,7 +3,7 @@ pipeline {
      stages {
         stage('Build') {
             steps {
-                echo 'Is it getting changed ?'
+                echo 'Trying Again'
             }
         }
         stage('Test') {	

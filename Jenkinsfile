@@ -3,7 +3,7 @@ pipeline {
      stages {
         stage('Build') {
             steps {
-                echo 'Hello Lopamudra!'
+                echo 'Is it getting changed ?'
             }
         }
         stage('Test') {	
